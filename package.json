@@ -1,0 +1,21 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "A compatibility-based \"FriendFinder\" application -- basically a dating app. This full-stack site takes in user results and compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match. Uses Express to handle routing.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddcf/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddcf/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/toddcf/FriendFinder#readme"
+}
