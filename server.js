@@ -90,7 +90,7 @@ $("#submit").on("click", function(){
 	}
 	else
 	{
-		alert("Please fill out all fields before submitting!");
+		alert("You must fill out all fields before submitting. No holding back!");
 	}
 	
 	return false;

@@ -4,32 +4,32 @@
     name:"Alex Garland",
     photo:"../public/img/alex_garland.jpg",
     scores:[
+       3,
        5,
-       1,
        4,
-       4,
-       5,
        1,
        2,
-       5,
+       1,
        4,
-       1
+       5,
+       2,
+       3
      ]
   },
   {
     name:"Amy Poehler",
     photo:"../public/img/amy_poehler.jpg",
     scores:[
-       5,
        1,
-       4,
-       4,
        5,
-       1,
        2,
+       1,
+       5,
+       1,
+       1,
        5,
        4,
-       1
+       4
      ]
   },
   {
@@ -38,30 +38,30 @@
     scores:[
        5,
        1,
-       4,
-       4,
-       5,
        1,
-       2,
        5,
-       4,
-       1
+       3,
+       5,
+       5,
+       5,
+       5,
+       5
      ]
   },
   {
     name:"Hillary Clinton",
     photo:"../public/img/hillary_clinton.jpg",
     scores:[
+       4,
+       2,
+       1,
        5,
        1,
-       4,
-       4,
-       5,
-       1,
+       3,
+       3,
        2,
        5,
-       4,
-       1
+       5
      ]
   },
   {
@@ -70,62 +70,62 @@
     scores:[
        5,
        1,
-       4,
-       4,
+       1,
        5,
        1,
-       2,
        5,
-       4,
-       1
+       1,
+       5,
+       5,
+       3
      ]
   },
   {
     name:"Narcissus",
     photo:"../public/img/narcissus.jpg",
     scores:[
-       5,
+       4,
+       1,
        1,
        4,
-       4,
-       5,
        1,
-       2,
+       5,
+       5,
        5,
        4,
-       1
+       5
      ]
   },
   {
     name:"Dick Marcinko",
     photo:"../public/img/richard_marcinko.jpg",
     scores:[
-       5,
-       1,
        4,
+       1,
+       1,
+       5,
        4,
        5,
-       1,
+       3,
+       5,
        2,
-       5,
-       4,
-       1
+       2
      ]
   },
   {
     name:"Ryan Lochte",
     photo:"../public/img/ryan_lochte.jpg",
     scores:[
-       5,
-       1,
        4,
-       4,
-       5,
+       2,
        1,
+       5,
+       3,
+       5,
        2,
        5,
        4,
-       1
+       3
      ]
   },
   {
@@ -133,15 +133,15 @@
     photo:"../public/img/chris_albrecht.jpg",
     scores:[
        5,
+       3,
        1,
-       4,
-       4,
        5,
        1,
-       2,
+       3,
        5,
-       4,
-       1
+       3,
+       5,
+       5
      ]
   }
 ]
