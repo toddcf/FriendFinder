@@ -1,9 +1,136 @@
-// You should save the data in your app as an array of objects. 
-// Each of these objects should roughly follow the format below.
+// You should save the data in your app as an array of objects.
 [
   {
     name:"Alex Garland",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo:"../public/img/alex_garland.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Amy Poehler",
+    photo:"../public/img/amy_poehler.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Donald Trump",
+    photo:"../public/img/donald_trump.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Hillary Clinton",
+    photo:"../public/img/hillary_clinton.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"iphone",
+    photo:"../public/img/iphone.png",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Narcissus",
+    photo:"../public/img/narcissus.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Dick Marcinko",
+    photo:"../public/img/richard_marcinko.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Ryan Lochte",
+    photo:"../public/img/ryan_lochte.jpg",
+    scores:[
+       5,
+       1,
+       4,
+       4,
+       5,
+       1,
+       2,
+       5,
+       4,
+       1
+     ]
+  },
+  {
+    name:"Chris Albrecht",
+    photo:"../public/img/chris_albrecht.jpg",
     scores:[
        5,
        1,
